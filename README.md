@@ -13,3 +13,5 @@ The final model (probability of occurrence) can be compared to the data (i.e. ob
 Finally, a 3D model was constructed and can be visualised using [ParaView](https://www.paraview.org/):
 
 <img src="images/Paraview_model2_Leman.png" width="400" /> <img src="images/Paraview_model2_VS.png" width="400" /> 
+
+This problem can also be adressed using the classifiers available from the [MLJ](https://juliapackages.com/p/mlj) library, see an example of application [there](https://github.com/luraess/ml-landslide).
